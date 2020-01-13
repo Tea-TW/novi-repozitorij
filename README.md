@@ -2,4 +2,4 @@
 ovo je opis novog repozitorija
 
 
-Promjena mijenjanja promjenjive promjenaste promjene.
+nova Promjena mijenjanja promjenjive promjenaste promjene.
